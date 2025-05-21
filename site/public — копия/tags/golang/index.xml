@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Сайт</title>
+    <link>http://localhost:1313/tags/golang/</link>
+    <description>Recent content in Golang on Сайт</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2024 21:49:20 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Дизайн-битва: сражение за идеал</title>
+      <link>http://localhost:1313/blog/2024/02/05/linked-post/</link>
+      <pubDate>Mon, 05 Feb 2024 21:49:20 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2024/02/05/linked-post/</guid>
+      <description>&lt;p&gt;Наши художники нарисовали 30+ вариантов интерфейса — от мрачных готических до лубочных сказочных.&lt;/p&gt;&#xA;&lt;p&gt;⚔️ Этапы отбора:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Опросили 500+ игроков в D&amp;amp;D-сообществах&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Тестировали на фокус-группах новичков и ветеранов&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Создали анимированные прототипы в Figma&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Плавными переходами между элементами&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Эффектами &amp;ldquo;оживания&amp;rdquo; персонажа при выборе доспехов&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Тактильной отдачей при кликах&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

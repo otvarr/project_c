@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorem on Сайт</title>
+    <link>http://localhost:1313/categories/lorem/</link>
+    <description>Recent content in Lorem on Сайт</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/lorem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Что такое ДНД</title>
+      <link>http://localhost:1313/blog/1/01/01/migrate-from-jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/1/01/01/migrate-from-jekyll/</guid>
+      <description>&lt;p&gt;то настольная игра для всех полов и возрастов. В ней ты погружаешься в фантастический мир, созданный мастером. Он может быть каким угодно. От настоящего средневековья с драконами и подземелья, до футуристического мира будущего с роботами и космическими кораблями.&lt;/p&gt;&#xA;&lt;p&gt;Для игры ты создаешь своего персонажа с помощью игрового справочника. Но это не значит, что из-за этого нет места для фантазии. С помощью книги игрока ты создаешь основу персонажа: его расу, класс, способности. А вот его история, черты характера, слабости и привязанности целиком зависят от игрока.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
